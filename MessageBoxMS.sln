@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageBoxMS", "MessageBoxMS\MessageBoxMS.csproj", "{0659A99D-6DF7-409D-9B4F-D40EBEA8A136}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleUse", "ExampleUse\ExampleUse.csproj", "{28F68C44-10D2-4EB9-80B0-4959DC357E95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0659A99D-6DF7-409D-9B4F-D40EBEA8A136}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0659A99D-6DF7-409D-9B4F-D40EBEA8A136}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0659A99D-6DF7-409D-9B4F-D40EBEA8A136}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0659A99D-6DF7-409D-9B4F-D40EBEA8A136}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28F68C44-10D2-4EB9-80B0-4959DC357E95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28F68C44-10D2-4EB9-80B0-4959DC357E95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28F68C44-10D2-4EB9-80B0-4959DC357E95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28F68C44-10D2-4EB9-80B0-4959DC357E95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

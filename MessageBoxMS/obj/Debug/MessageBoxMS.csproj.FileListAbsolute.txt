@@ -1,0 +1,17 @@
+c:\users\luism\documents\visual studio 2015\Projects\MessageBoxMS\MessageBoxMS\bin\Debug\MessageBoxMS.dll.config
+c:\users\luism\documents\visual studio 2015\Projects\MessageBoxMS\MessageBoxMS\bin\Debug\MessageBoxMS.dll
+c:\users\luism\documents\visual studio 2015\Projects\MessageBoxMS\MessageBoxMS\bin\Debug\MessageBoxMS.pdb
+c:\users\luism\documents\visual studio 2015\Projects\MessageBoxMS\MessageBoxMS\obj\Debug\MessageBoxMS.Properties.Resources.resources
+c:\users\luism\documents\visual studio 2015\Projects\MessageBoxMS\MessageBoxMS\obj\Debug\MessageBoxMS.csproj.GenerateResource.Cache
+c:\users\luism\documents\visual studio 2015\Projects\MessageBoxMS\MessageBoxMS\obj\Debug\MessageBoxMS.dll
+c:\users\luism\documents\visual studio 2015\Projects\MessageBoxMS\MessageBoxMS\obj\Debug\MessageBoxMS.pdb
+c:\users\luism\documents\visual studio 2015\Projects\MessageBoxMS\MessageBoxMS\obj\Debug\MessageBoxMS.MessageBoxMS.resources
+C:\Users\luism\documents\visual studio 2015\Projects\MessageBoxMS\MessageBoxMS\obj\Debug\MessageBoxMS.csprojResolveAssemblyReference.cache
+D:\Programacion y Diseño\Programacion\MessageBoxMS\MessageBoxMS\bin\Debug\MessageBoxMS.dll.config
+D:\Programacion y Diseño\Programacion\MessageBoxMS\MessageBoxMS\bin\Debug\MessageBoxMS.dll
+D:\Programacion y Diseño\Programacion\MessageBoxMS\MessageBoxMS\bin\Debug\MessageBoxMS.pdb
+D:\Programacion y Diseño\Programacion\MessageBoxMS\MessageBoxMS\obj\Debug\MessageBoxMS.MessageBoxMS.resources
+D:\Programacion y Diseño\Programacion\MessageBoxMS\MessageBoxMS\obj\Debug\MessageBoxMS.Properties.Resources.resources
+D:\Programacion y Diseño\Programacion\MessageBoxMS\MessageBoxMS\obj\Debug\MessageBoxMS.csproj.GenerateResource.Cache
+D:\Programacion y Diseño\Programacion\MessageBoxMS\MessageBoxMS\obj\Debug\MessageBoxMS.dll
+D:\Programacion y Diseño\Programacion\MessageBoxMS\MessageBoxMS\obj\Debug\MessageBoxMS.pdb
