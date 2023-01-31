@@ -129,6 +129,7 @@
             this.Controls.Add(this.lblMensaje);
             this.Controls.Add(this.tableLayoutPanel1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
+            this.KeyPreview = true;
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "MessageBoxMS";
@@ -136,6 +137,7 @@
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "MessageBoxMS";
             this.Shown += new System.EventHandler(this.MessageBoxMS_Shown);
+            this.KeyUp += new System.Windows.Forms.KeyEventHandler(this.MessageBoxMS_KeyUp);
             this.tableLayoutPanel1.ResumeLayout(false);
             this.tableLayoutPanel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pbxIcono)).EndInit();

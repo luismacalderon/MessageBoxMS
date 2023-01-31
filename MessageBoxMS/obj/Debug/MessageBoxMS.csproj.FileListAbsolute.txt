@@ -15,3 +15,12 @@ D:\Programacion y Diseño\Programacion\MessageBoxMS\MessageBoxMS\obj\Debug\Messa
 D:\Programacion y Diseño\Programacion\MessageBoxMS\MessageBoxMS\obj\Debug\MessageBoxMS.csproj.GenerateResource.Cache
 D:\Programacion y Diseño\Programacion\MessageBoxMS\MessageBoxMS\obj\Debug\MessageBoxMS.dll
 D:\Programacion y Diseño\Programacion\MessageBoxMS\MessageBoxMS\obj\Debug\MessageBoxMS.pdb
+D:\Codigo Fuente\MessageBoxMS\MessageBoxMS\bin\Debug\MessageBoxMS.dll.config
+D:\Codigo Fuente\MessageBoxMS\MessageBoxMS\bin\Debug\MessageBoxMS.dll
+D:\Codigo Fuente\MessageBoxMS\MessageBoxMS\bin\Debug\MessageBoxMS.pdb
+D:\Codigo Fuente\MessageBoxMS\MessageBoxMS\obj\Debug\MessageBoxMS.csprojResolveAssemblyReference.cache
+D:\Codigo Fuente\MessageBoxMS\MessageBoxMS\obj\Debug\MessageBoxMS.MessageBoxMS.resources
+D:\Codigo Fuente\MessageBoxMS\MessageBoxMS\obj\Debug\MessageBoxMS.Properties.Resources.resources
+D:\Codigo Fuente\MessageBoxMS\MessageBoxMS\obj\Debug\MessageBoxMS.csproj.GenerateResource.Cache
+D:\Codigo Fuente\MessageBoxMS\MessageBoxMS\obj\Debug\MessageBoxMS.dll
+D:\Codigo Fuente\MessageBoxMS\MessageBoxMS\obj\Debug\MessageBoxMS.pdb

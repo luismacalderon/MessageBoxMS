@@ -33,7 +33,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(105, 44);
+            this.button1.Location = new System.Drawing.Point(92, 44);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 0;
@@ -48,6 +48,7 @@
             this.ClientSize = new System.Drawing.Size(249, 106);
             this.Controls.Add(this.button1);
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "MessageBox Personalizado by Master Solutions NIC";
             this.ResumeLayout(false);
 

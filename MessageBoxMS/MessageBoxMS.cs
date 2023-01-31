@@ -92,6 +92,22 @@ namespace MessageBoxMS
         {
             this.AcceptButton = btn2;
         }
+
+        private void MessageBoxMS_KeyUp(object sender, KeyEventArgs e)
+        {
+            if(e.KeyCode == Keys.F2)
+            {
+                btn1_Click(null, null);
+            }
+            else if (e.KeyCode == Keys.F3)
+            {
+                btn2_Click(null, null);
+            }
+            else if (e.KeyCode == Keys.Escape)
+            {
+                btn3_Click(null, null);
+            }
+        }
     }
 
     public enum MessageBoxMSTipoIcono

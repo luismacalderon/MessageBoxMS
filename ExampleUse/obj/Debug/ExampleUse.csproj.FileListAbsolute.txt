@@ -20,3 +20,14 @@ D:\Programacion y Diseño\Programacion\MessageBoxMS\ExampleUse\obj\Debug\Example
 D:\Programacion y Diseño\Programacion\MessageBoxMS\ExampleUse\obj\Debug\ExampleUse.Form1.resources
 D:\Programacion y Diseño\Programacion\MessageBoxMS\ExampleUse\obj\Debug\ExampleUse.Properties.Resources.resources
 D:\Programacion y Diseño\Programacion\MessageBoxMS\ExampleUse\obj\Debug\ExampleUse.csproj.GenerateResource.Cache
+D:\Codigo Fuente\MessageBoxMS\ExampleUse\bin\Debug\ExampleUse.exe.config
+D:\Codigo Fuente\MessageBoxMS\ExampleUse\obj\Debug\ExampleUse.exe
+D:\Codigo Fuente\MessageBoxMS\ExampleUse\obj\Debug\ExampleUse.pdb
+D:\Codigo Fuente\MessageBoxMS\ExampleUse\bin\Debug\ExampleUse.exe
+D:\Codigo Fuente\MessageBoxMS\ExampleUse\bin\Debug\ExampleUse.pdb
+D:\Codigo Fuente\MessageBoxMS\ExampleUse\bin\Debug\MessageBoxMS.dll
+D:\Codigo Fuente\MessageBoxMS\ExampleUse\bin\Debug\MessageBoxMS.pdb
+D:\Codigo Fuente\MessageBoxMS\ExampleUse\obj\Debug\ExampleUse.csprojResolveAssemblyReference.cache
+D:\Codigo Fuente\MessageBoxMS\ExampleUse\obj\Debug\ExampleUse.Form1.resources
+D:\Codigo Fuente\MessageBoxMS\ExampleUse\obj\Debug\ExampleUse.Properties.Resources.resources
+D:\Codigo Fuente\MessageBoxMS\ExampleUse\obj\Debug\ExampleUse.csproj.GenerateResource.Cache
