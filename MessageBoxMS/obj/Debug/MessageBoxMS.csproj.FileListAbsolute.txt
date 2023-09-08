@@ -24,3 +24,11 @@ D:\Codigo Fuente\MessageBoxMS\MessageBoxMS\obj\Debug\MessageBoxMS.Properties.Res
 D:\Codigo Fuente\MessageBoxMS\MessageBoxMS\obj\Debug\MessageBoxMS.csproj.GenerateResource.Cache
 D:\Codigo Fuente\MessageBoxMS\MessageBoxMS\obj\Debug\MessageBoxMS.dll
 D:\Codigo Fuente\MessageBoxMS\MessageBoxMS\obj\Debug\MessageBoxMS.pdb
+D:\source codes\MessageBoxMS\MessageBoxMS\bin\Debug\MessageBoxMS.dll.config
+D:\source codes\MessageBoxMS\MessageBoxMS\bin\Debug\MessageBoxMS.dll
+D:\source codes\MessageBoxMS\MessageBoxMS\bin\Debug\MessageBoxMS.pdb
+D:\source codes\MessageBoxMS\MessageBoxMS\obj\Debug\MessageBoxMS.MessageBoxMS.resources
+D:\source codes\MessageBoxMS\MessageBoxMS\obj\Debug\MessageBoxMS.Properties.Resources.resources
+D:\source codes\MessageBoxMS\MessageBoxMS\obj\Debug\MessageBoxMS.csproj.GenerateResource.Cache
+D:\source codes\MessageBoxMS\MessageBoxMS\obj\Debug\MessageBoxMS.dll
+D:\source codes\MessageBoxMS\MessageBoxMS\obj\Debug\MessageBoxMS.pdb
